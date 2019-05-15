@@ -1,2 +1,1 @@
-# inmemorydatabase
-in-memory database
+# In-memory data base
